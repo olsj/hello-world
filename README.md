@@ -5,5 +5,4 @@ GitHub instructions
 
 ## This was added from a cloned repo
 
-This commit will also be signed.
 Maybe this one?
